@@ -1,6 +1,6 @@
-###Frances Cohen
-###Hackathon 1
-###CS 98 Fall 2019
+### Frances Cohen
+### Hackathon 1
+### CS 98 Fall 2019
 
 ## What I did
 Having never worked with React Native before, I found several tutorials online and did my best to follow them to create some Ios applications. The three applications I attempted to build were: a simple to-do list, a chat application using firebase to store messages/users, and a google maps application (which I was not able to get fully functioning).
